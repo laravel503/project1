@@ -1,3 +1,13 @@
-Github
+//New Repository
+git init
+git remote add origin "repository link"
+git add .
+git commit -m "commit message"
+git branch -M "branch name"
+git push -u origin "branch name"
 
-2nd text
+
+//Exists Repository
+git add .
+git commit -m "commit message"
+git push
